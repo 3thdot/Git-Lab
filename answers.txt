@@ -1,1 +1,4 @@
- 
+1. It adds a chance into the working directory to the staging area.
+2. It records your changes locally, allowing for detailed tracking and control over your project's evolution. 
+3. git clone : Creates a local copy of a remote repository. git pull : Updates your existing local repository with changes from a remote repository.
+4. it states wether the file was edited or not and it says what things were done.
